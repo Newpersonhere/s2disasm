@@ -64,7 +64,7 @@ int main(int argc, char *argv[])
 				}
 				else
 				{
-					remove(romFileName); // error; delete the rom because it's probably hosed
+				 // error; delete the rom because it's probably hosed
 				}
 			}
 			else
